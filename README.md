@@ -17,8 +17,5 @@ From microcontrollers to Linux, I live in that zone between **electronics and so
 | **Operating Systems** | Linux (Beginner Level) |
 | **Version Control** | Git · GitHub |
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,linux,git,github,arduino,raspberrypi" />
-</p>
 
 ---
